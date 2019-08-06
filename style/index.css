@@ -72,3 +72,6 @@ html,body{width:100%;}
 #footer .foot-nav ul li span{display:block;font:14px/22px "";color:#999;}
 #footer .foot-nav ul li span:first-child{font:500 16px/26px "";color:#000;}
 #footer .foot-nav .box-r{float:right;padding:44px 0;margin-right:50px;}
+
+#floor .floor-nav{position:fixed;top:320px;left:0;width:60px;z-index: 99999;}
+#floor .floor-nav li{background:#F33D17;color:#fff;margin:10px 0;font:14px/30px "";text-align: center;}
